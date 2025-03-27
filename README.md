@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This Tableau dashboard provides an interactive visualization of COVID-19 cases across different countries. It tracks confirmed cases, deaths, and trends over time, helping users analyze the impact of the pandemic globally.
 
+## 📸 Dashboard Preview
+![Covid19 Dashboard](https://github.com/user-attachments/assets/006c4ebc-ca3b-4318-9d2b-6ff516645c44)
+
+
 ## 📊 Key Features
 - **Global Map Visualization:** Displays affected regions with case data.
 - **Case Trends:** Tracks the progression of COVID-19 cases over time.
